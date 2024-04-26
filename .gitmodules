@@ -2,3 +2,9 @@
 	path = juno
 	url = https://github.com/reddio-com/juno.git
 	branch = itachi
+
+[submodule "ethereum"]
+	path = ethereum
+	url = https://github.com/ethereum/go-ethereum.git
+	branch = release/1.12
+
